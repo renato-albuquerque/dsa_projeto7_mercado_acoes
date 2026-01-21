@@ -1,4 +1,4 @@
-# Projeto 7 - Análise de Dados do Mercado Financeiro
+# Projeto 7 - Análise de Dados do Mercado de Ações
 Projeto do curso: "Microsoft Power BI Para Business Intelligence e Data Science", por [Data Science Academy](www.datascienceacademy.com.br). 
 
 ## Entendimento do Negócio
@@ -14,7 +14,7 @@ Projeto do curso: "Microsoft Power BI Para Business Intelligence e Data Science"
 ### Dataviz do Projeto
 Segue solução proposta, com as respostas solicitadas para a área de negócio.
 
-![Dataviz solução projeto contabil]()
+![Dataviz solução projeto mercado de acoes]()
 
 [End]
 
