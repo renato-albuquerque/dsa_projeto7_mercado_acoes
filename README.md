@@ -14,7 +14,7 @@ Projeto do curso: "Microsoft Power BI Para Business Intelligence e Data Science"
 ### Dataviz do Projeto
 Segue solução proposta, com as respostas solicitadas para a área de negócio.
 
-![Dataviz solução projeto mercado de acoes]()
+![Dataviz solução projeto mercado de acoes](files/dashboard_mercado_acoes.PNG)
 
 [End]
 
